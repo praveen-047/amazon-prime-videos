@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.thumbnail-div {
+  margin-right: 10px;
+}
+.thumbnail-image {
+  width: 100%;
+}
+.popup-container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+.close-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.close-btn {
+  border-width: 0px;
+  background-color: white;
+  outline: none;
+}
+.close-icon {
+  font-size: 25px;
+}
+.video-container {
+  box-sizing: border-box;
+}
+.video-player {
+  width: 150px;
+  height: 150px;
+}
